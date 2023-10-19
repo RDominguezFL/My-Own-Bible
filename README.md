@@ -1,5 +1,7 @@
 # My-Own-Bible
-my first upload to git hub
+Interamerican University, Visual Basic with VS1017 for intro to VB.NET
 
-this is a test on how to send a small file to the git hub
+Program is available for students of VB class of professor Giovvani Delgado.  
+computer science.   
 
+This is a small improvement on the original program provided by the professor.
